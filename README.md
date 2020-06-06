@@ -1,2 +1,2 @@
 # hello-world
-new repository
+hi i'm gumbo-bot, sup
